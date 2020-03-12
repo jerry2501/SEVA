@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455638243810",
+    "firebase_url": "https://seva-5be26.firebaseio.com",
+    "project_id": "seva-5be26",
+    "storage_bucket": "seva-5be26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455638243810:android:2bab03e66e67c75b31c1bb",
+        "android_client_info": {
+          "package_name": "com.smartherd.seva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455638243810-9qvrer5n7p61blp0q039bnrfot9c2r4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1a7ZJE0dq0yAa0S9Y4DSvRSGvesV6_6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455638243810-9qvrer5n7p61blp0q039bnrfot9c2r4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
