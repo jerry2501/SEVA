@@ -127,7 +127,7 @@ class signup_layout extends State<signup>
                             return "Please enter City Name";
                           }
                         },
-                        onChanged: (input) => city=input ,
+                        onChanged: (input) => city=input.toLowerCase() ,
                       ),
                     ),
                     Container(
