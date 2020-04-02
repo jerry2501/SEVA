@@ -54,7 +54,7 @@ class signup_layout extends State<signup>
                             return "Please type Name";
                           }
                         },
-                        onChanged: (input) => name=input ,
+                        onChanged: (input) => name=input.toUpperCase() ,
                       ),
                     ),
                     Container(

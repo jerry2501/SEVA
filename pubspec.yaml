@@ -31,6 +31,7 @@ dependencies:
   toast:
   sms:
   double_back_to_close_app:
+  random_color:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
